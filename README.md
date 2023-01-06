@@ -20,7 +20,7 @@ Fun facts:
 ![](https://files.raycast.com/n7ks0vw5sy5r8mjranneg33uo0y6)
 
 Social:
-- Twitter [@CaliCastleMusic](https://twitter.com/CaliCastleMusic)
+- Twitter [@thecalicastle](https://twitter.com/thecalicastle)
 - Dribbble [@Cali Castle](https://dribbble.com/calicastle)
 
 You can reach me via email hi@cali.so (personal) or cali@zolplay.com (business)
