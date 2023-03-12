@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Founder and CEO at [Zolplay](https://zolplay.cn) (https://github.com/zolplay-cn)
+I'm Founder and CEO at [Zolplay](https://zolplay.com) (https://github.com/zolplay-cn)
 
 I am also the Crew Lead and Chief Tech Artisan who provides direction 🧑🏻‍🚀 while we're roaming and wandering in the uncharted galaxy 🪐. 
 
