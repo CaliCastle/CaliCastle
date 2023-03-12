@@ -4,6 +4,8 @@ I'm Founder and CEO at [Zolplay](https://zolplay.com) (https://github.com/zolpla
 
 I am also the Crew Lead and Chief Tech Artisan who provides direction 🧑🏻‍🚀 while we're roaming and wandering in the uncharted galaxy 🪐. 
 
+You can also find me on [read.cv](https://read.cv/cali).
+
 I am mainly responsible for writing and managing project specs and documentations, creating slides and sheets, and also participanting in both front-end and back-end development, and ✨ sprinkling in some UI/UX design from time to time.
 
 Fun facts:
